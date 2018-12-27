@@ -1,0 +1,81 @@
+blacksmith images/blacksmith.bmp
+blob images/blob1.bmp 255 255 255 0
+blob images/blob2.bmp 255 255 255 0
+blob images/blob3.bmp 255 255 255 0
+blob images/blob4.bmp 255 255 255 0
+blob images/blob5.bmp 255 255 255 0
+blob images/blob6.bmp 255 255 255 0
+blob images/blob7.bmp 255 255 255 0
+blob images/blob8.bmp 255 255 255 0
+blob images/blob9.bmp 255 255 255 0
+blob images/blob10.bmp 255 255 255 0
+blob images/blob11.bmp 255 255 255 0
+blob images/blob12.bmp 255 255 255 0
+grass images/grass.bmp
+miner images/miner1.bmp 252 252 252 0
+miner images/miner2.bmp 252 252 252 0
+miner images/miner3.bmp 252 252 252 0
+miner images/miner4.bmp 252 252 252 0
+miner images/miner5.bmp 252 252 252 0
+icedminer images/icedminer1.png 252 252 252 0
+icedminer images/icedminer2.png 252 252 252 0
+icedminer images/icedminer3.png 252 252 252 0
+icedminer images/icedminer4.png 252 252 252 0
+icedminer images/icedminer5.png 252 252 252 0
+takeoff images/takeoff1.png 255 255 255 0
+takeoff images/takeoff2.png 255 255 255 0
+takeoff images/takeoff3.png 255 255 255 0
+quavo images/quavo1.png 255 255 255 0
+quavo images/quavo2.png 255 255 255 0
+quavo images/quavo3.png 255 255 255 0
+offset images/offset1.png 255 255 255 0
+offset images/offset2.png 255 255 255 0
+offset images/offset3.png 255 255 255 0
+chain images/chain.png 255 255 255 0
+obstacle images/obstacle.bmp
+ore images/ore.bmp 201 26 26 0
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+rocks images/rock.bmp
+
+vein images/vein.bmp 255 255 255 0
+winner1 images/winner1.png 255 255 255 0
+winner2 images/winner2.png 255 255 255 0
+player1 images/player11.png 255 255 255 0
+player1 images/player12.png 255 255 255 0
+player1 images/player13.png 255 255 255 0
+player2 images/player21.png 255 255 255 0
+player2 images/player22.png 255 255 255 0
+player2 images/player23.png 255 255 255 0
+player1winner1 images/player1winner11.png 255 255 255 0
+player1winner1 images/player1winner12.png 255 255 255 0
+player1winner1 images/player1winner13.png 255 255 255 0
+player1winner1 images/player1winner14.png 255 255 255 0
+player1winner1 images/player1winner15.png 255 255 255 0
+player1winner1 images/player1winner16.png 255 255 255 0
+player2winner2 images/player2winner21.png 255 255 255 0
+player2winner2 images/player2winner22.png 255 255 255 0
+player2winner2 images/player2winner23.png 255 255 255 0
+player2winner2 images/player2winner24.png 255 255 255 0
+player2winner2 images/player2winner25.png 255 255 255 0
+player2winner2 images/player2winner26.png 255 255 255 0
+
+white images/white.png
+offwhite images/offwhite.png
+white-black1 images/white-black1.png
+white-black2 images/white-black2.png
+whiteablack1 images/whiteablack1.png
+whiteablack2 images/whiteablack2.png
+black-white1 images/black-white1.png
+black-white2 images/black-white2.png
+blackawhite1 images/blackawhite1.png
+blackawhite2 images/blackawhite2.png
+tile1 images/tile1.png
+tile2 images/tile2.png
+offwhite-black images/offwhite-black.png
+
+background_default images/none.bmp
